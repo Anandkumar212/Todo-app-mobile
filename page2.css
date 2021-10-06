@@ -43,7 +43,7 @@ h1{
     text-align: center;
 
 }
-@media screen and (min-width: 200px ) and (max-width: 400px) {
+@media screen and (min-width: 200px ) and (max-width: 640px) {
     .b4{
         margin-left: 13%;
         margin-top: 25%;
@@ -59,7 +59,7 @@ h1{
         font-size: 0px;
     }
 }
-@media screen and (min-width: 700px ) and (max-width: 640px) {
+@media screen and (min-width: 700px ) and (max-width: 1030px) {
     .b4{
         margin-left: 13%;
         margin-top: 25%;
