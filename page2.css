@@ -11,7 +11,10 @@
     
 }
 .text {
+    margin-top: 5%;
     left: 23%;
+    font-size: 50px;
+
 }
 .bottom-line{
     margin-left: 20%;
@@ -29,6 +32,7 @@
     width:200px;
     margin-left: 40%;
     margin-top: 2%;
+    
 }
 .back{
     margin-left: 45%;
@@ -43,35 +47,42 @@ h1{
     text-align: center;
 
 }
-@media screen and (min-width: 200px ) and (max-width: 640px) {
-    .b4{
-        margin-left: 13%;
-        margin-top: 25%;
-        height: 305px;
+@media screen and (min-width: 200px ) and (max-width: 680px) {
+    .b4 {
+        margin-left: 26%;
+    margin-top: 23%;
+    height: 375px;
+    width: 250px;
     }
-    .back{
-        margin-left: 0%;
+    .back {
+        margin-left: 11%;
         position: absolute;
-        top: 5%;
-        left:0%;
+        top: 1%;
+        left: 4%;
     }
     .text2{
         font-size: 0px;
     }
-}
-@media screen and (min-width: 700px ) and (max-width: 1030px) {
-    .b4{
-        margin-left: 13%;
-        margin-top: 25%;
-        height: 305px;
-    }
-    .back{
-        margin-left: 0%;
-        position: absolute;
-        top: 5%;
-        left:0%;
-    }
-    .text2{
-        font-size: 0px;
+    .text{
+        font-size: 25px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

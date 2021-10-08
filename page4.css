@@ -70,7 +70,43 @@ h1{
 .bottom-line{
     margin-left: 20%;
 }
-@media screen and (min-width: 200px ) and (max-width: 640px) {
+@media screen and (min-width: 200px ) and (max-width: 680px) {
+    .b4 {
+        margin-left: 20%;
+    margin-top: 17%;
+    height: 375px;
+    width: 275px;
+    }
+    .back {
+        margin-left: 11%;
+        position: absolute;
+        top: 6%;
+        left: 10%;
+    }
+    .text2{
+        font-size: 0px;
+    }
+    .text{
+        font-size: 25px;
+        margin-top: 10%;
+    }
+    .Add-box{
+        position: absolute;
+        top: 60%;
+ 
+    width: 55%;
+    margin-left: 24%;
+    }
+}
+
+
+
+
+
+
+
+
+/* @media screen and (min-width: 700px ) and (max-width: 1030px) {
     .b4{
         margin-left: 24%;
         margin-top: 25%;
@@ -94,29 +130,4 @@ h1{
         left: 22%;
     border-top: 0px ;
     }
-}
-@media screen and (min-width: 700px ) and (max-width: 1030px) {
-    .b4{
-        margin-left: 24%;
-        margin-top: 25%;
-        height: 305px;
-    }
-    .back{
-        margin-left: 0%;
-        position: absolute;
-        top: 2%;
-        left:3%;
-    }
-    .text2{
-        font-size: 0px;
-    }
-    .Add-box{
-        margin-left: 22%;
-    margin-top: -63%;
-    width: 56%;
-    }
-    .text1:before{
-        left: 22%;
-    border-top: 0px ;
-    }
-}
+} */
